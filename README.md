@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=SoYeon&nbsp;Github&fontSize=90" />
 
-##### HI! there 👋
+##### Hi there! 👋
 </br></br>
 ### 📚 Tech Stack 
 
@@ -18,7 +18,6 @@
 
 
 ### 🧰 Tools
-###
 <div>
 <img src="https://img.shields.io/badge/Eclipse&nbsp;IDE-2C2255?style=flat&logo=eclipseide&logoColor=white" />
 <img src="https://img.shields.io/badge/Visual&nbsp;Studio&nbsp;Code-007acc?style=flat&logo=visualstudiocode&logoColor=white" />

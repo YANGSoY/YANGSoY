@@ -1,11 +1,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=SoYeon&nbsp;Github&fontSize=90" />
 
-### HI! there 👋
-
+# HI! there 👋
+</br></br>
 ### 📚 Tech Stack 
 
 ### 💻 Platforms & Languages 
-###
 <div>
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />

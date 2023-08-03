@@ -23,7 +23,7 @@
 </div>
 
 ### 🔗 Portfolio
-[허니티퍼 바로가기](http://www.ggultiper.kro.kr)
+[꿀TIPer 바로가기](http://www.ggultiper.kro.kr)
 
 
 

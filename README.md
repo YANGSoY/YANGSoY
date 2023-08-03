@@ -1,6 +1,6 @@
-### <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=내용입력&fontSize=90" />
+### <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=SoYeon Github&fontSize=90" />
 
-### HII there 👋
+### HI! there 👋
 
 <!--
 **YANGSoY/YANGSoY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

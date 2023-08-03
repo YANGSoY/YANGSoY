@@ -27,5 +27,6 @@
 </div>
 
 ### 🔗 Portfolio
+<img src="https://img.shields.io/badge/Portfolio-34A7C1?style=flat&logo=Proto.io&logoColor=white" />
 
 

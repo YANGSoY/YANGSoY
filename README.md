@@ -23,7 +23,7 @@
 </div>
 
 ### 🔗 Portfolio
-<a href="http://ggultiper.kro.kr"><img src="https://img.shields.io/badge/꿀TIPer-F7DF1E?style=flat&logo=Proto.io&logoColor=white"></a>
+[허니티퍼 바로가기](http://www.ggultiper.kro.kr)
 
 
 
